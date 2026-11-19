@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.parquet
+logs/
+.airflow/
+airflow-data/*.db
+airflow-data/*.db-*
